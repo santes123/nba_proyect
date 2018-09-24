@@ -9,6 +9,7 @@ if(isset($_POST['enviar']) && count($_POST)>0){
 		//die();
 		exit();
 	}else{
+		//asa
 		echo "<div>CONEXION CORRECTA</div>";
 		$nombre = $_POST['nombre'];
 		$correo = $_POST['correo'];
