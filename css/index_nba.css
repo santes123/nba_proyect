@@ -1,0 +1,26 @@
+@charset "utf-8"
+/* creando fuente personalizada*/
+@font-face{
+	font-family: yijadist;
+	src: url(../fonts/Alienator.ttf);
+}
+@font-face{
+	font-family: yijad;
+	src: url(../fonts/AbstractaGrid.ttf);
+}
+@font-face{
+	font-family: fullYihad;
+	src: url(../fonts/GujaratiRajkotSSK.ttf);
+}
+@font-face{
+	font-family: yijadista;
+	src: url(../fonts/abc_Military_dingbats_fenotype.ttf);
+}
+@font-face{
+	font-family: font_normal;
+	src: url(../fonts/A_Charming_Font_Superexpanded.ttf);
+}
+*{
+	font-family: font_normal;
+	font-size: 18pt;
+}
